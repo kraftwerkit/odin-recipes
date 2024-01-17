@@ -1,0 +1,16 @@
+#title,h1 {text-align: center;
+    color: #ebb3b2;
+    font-size: 40px;
+    font-weight:700px}
+
+h3 {color: rgb(100, 149, 237);
+    font-size:20px;
+    font-weight: bold;}
+
+img {height: auto;
+    width: 500px;}
+
+ul li, ol li, p {color:chocolate;}
+
+body {background: linear-gradient(68.4deg, rgb(248, 182, 204) 0.5%, rgb(192, 198, 230) 49%, rgb(225, 246, 240) 99.8%);
+}

@@ -1,4 +1,4 @@
-#title,h1 {text-align: center;
+h1 {text-align: center;
     color: #ebb3b2;
     font-size: 40px;
     font-weight:700px}
@@ -13,4 +13,13 @@ img {height: auto;
 ul li, ol li, p {color:chocolate;}
 
 body {background: linear-gradient(68.4deg, rgb(248, 182, 204) 0.5%, rgb(192, 198, 230) 49%, rgb(225, 246, 240) 99.8%);
+    font-family: Arial, sans-serif;
 }
+
+a:hover {
+    background-color: yellowgreen;
+  }
+
+  /** {border: red 2px solid;
+
+  }*/
